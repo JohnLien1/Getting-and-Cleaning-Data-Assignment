@@ -1,0 +1,68 @@
+subject:                     subject
+activity:                    activity
+tBodyAcc-mean()-X:           tBodyAcc mean from X
+tBodyAcc-mean()-Y:           tBodyAcc mean from Y
+tBodyAcc-mean()-Z:           tBodyAcc mean from Z
+tBodyAcc-std()-X:            tBodyAcc standard deviation from X
+tBodyAcc-std()-Y:            tBodyAcc standard deviation from Y
+tBodyAcc-std()-Z:            tBodyAcc standard deviation from Z
+tGravityAcc-mean()-X:        tGravityAcc mean from X
+tGravityAcc-mean()-Y:        tGravityAcc mean from Y
+tGravityAcc-mean()-Z:        tGravityAcc mean from Z
+tGravityAcc-std()-X:         tGravityAcc standard deviation from X
+tGravityAcc-std()-Y:         tGravityAcc standard deviation from Y
+tGravityAcc-std()-Z:         tGravityAcc standard deviation from Z
+tBodyAccJerk-mean()-X:       tBodyAccJerk mean from X
+tBodyAccJerk-mean()-Y:       tBodyAccJerk mean from Y
+tBodyAccJerk-mean()-Z:       tBodyAccJerk mean from Z
+tBodyAccJerk-std()-X:        tBodyAccJerk standard deviation from X
+tBodyAccJerk-std()-Y:        tBodyAccJerk standard deviation from Y
+tBodyAccJerk-std()-Z:        tBodyAccJerk standard deviation from Z
+tBodyGyro-mean()-X:          tBodyGyro mean from X
+tBodyGyro-mean()-Y:          tBodyGyro mean from Y
+tBodyGyro-mean()-Z:          tBodyGyro mean from Z
+tBodyGyro-std()-X:           tBodyGyro standard deviation from X
+tBodyGyro-std()-Y:           tBodyGyro standard deviation from Y
+tBodyGyro-std()-Z:           tBodyGyro standard deviation from Z
+tBodyGyroJerk-mean()-X:      tBodyGyroJerk mean from X
+tBodyGyroJerk-mean()-Y:      tBodyGyroJerk mean from Y
+tBodyGyroJerk-mean()-Z:      tBodyGyroJerk mean from Z
+tBodyGyroJerk-std()-X:       tBodyGyroJerk standard deviation from X
+tBodyGyroJerk-std()-Y:       tBodyGyroJerk standard deviation from Y
+tBodyGyroJerk-std()-Z:       tBodyGyroJerk standard deviation from Z
+tBodyAccMag-mean():          tBodyAccMag mean
+tBodyAccMag-std():           tBodyAccMag standard deviation
+tGravityAccMag-mean():       tGravityAccMag mean
+tGravityAccMag-std():        tGravityAccMag standard deviation
+tBodyAccJerkMag-mean():      tBodyAccJerkMag mean
+tBodyAccJerkMag-std():       tBodyAccJerkMag standard deviation
+tBodyGyroMag-mean():         tBodyGyroMag mean
+tBodyGyroMag-std():          tBodyGyroMag standard deviation
+tBodyGyroJerkMag-mean():     tBodyGyroJerkMag mean
+tBodyGyroJerkMag-std():      tBodyGyroJerkMag standard deviation
+fBodyAcc-mean()-X:           fBodyAcc mean from X
+fBodyAcc-mean()-Y:           fBodyAcc mean from Y
+fBodyAcc-mean()-Z:           fBodyAcc mean from Z
+fBodyAcc-std()-X:            fBodyAcc standard deviation from X
+fBodyAcc-std()-Y:            fBodyAcc standard deviation from Y
+fBodyAcc-std()-Z:            fBodyAcc standard deviation from Z
+fBodyAccJerk-mean()-X:       fBodyAccJerk mean from X
+fBodyAccJerk-mean()-Y:       fBodyAccJerk mean from Y
+fBodyAccJerk-mean()-Z:       fBodyAccJerk mean from Z
+fBodyAccJerk-std()-X:        fBodyAccJerk standard deviation from X
+fBodyAccJerk-std()-Y:        fBodyAccJerk standard deviation from Y
+fBodyAccJerk-std()-Z:        fBodyAccJerk standard deviation from Z
+fBodyGyro-mean()-X:          fBodyGyro mean from X
+fBodyGyro-mean()-Y:          fBodyGyro mean from Y
+fBodyGyro-mean()-Z:          fBodyGyro mean from Z
+fBodyGyro-std()-X:           fBodyGyro standard deviation from X
+fBodyGyro-std()-Y:           fBodyGyro standard deviation from Y
+fBodyGyro-std()-Z:           fBodyGyro standard deviation from Z
+fBodyAccMag-mean():          fBodyAccMag mean
+fBodyAccMag-std():           fBodyAccMag standard deviation
+fBodyBodyAccJerkMag-mean():  fBodyBodyAccJerkMag mean
+fBodyBodyAccJerkMag-std():   fBodyBodyAccJerkMag standard deviation
+fBodyBodyGyroMag-mean():     fBodyBodyGyroMag mean
+fBodyBodyGyroMag-std():      fBodyBodyGyroMag standard deviation
+fBodyBodyGyroJerkMag-mean(): fBodyBodyGyroJerkMag mean
+fBodyBodyGyroJerkMag-std():  fBodyBodyGyroJerkMag standard deviation
